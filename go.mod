@@ -1,3 +1,3 @@
-module github.com/infinitedaremo/go-lib/v2
+module github.com/infinitedaremo/go-lib
 
 go 1.13
